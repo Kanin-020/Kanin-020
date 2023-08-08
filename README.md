@@ -1,8 +1,8 @@
+<h1 align="center">
+
 <img align="center" src="https://marketing4ecommerce.net/wp-content/uploads/2018/06/GitHub-logo-2-imagen.jpg" height="200">
 
 <br>
-
-<h1 align="center">
 
 Hi, I'm Jesús Álvarez
 
@@ -58,7 +58,6 @@ Hi, I'm Jesús Álvarez
 
 <a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" height="40"></img></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a><a href="https://developer.android.com/studio?gclid=Cj0KCQjwrMKmBhCJARIsAHuEAPRPRuI_aX5AZ9WDKtZvxm5L2CezHBYkbpEekAqlyHrb7NQ2dahD73saAmG6EALw_wcB&gclsrc=aw.ds"><img src="https://developer.android.com/static/studio/images/new-studio-logo-1.png" height="40"></img></a>
-
 
 <h3>DevOps</h3>
 
