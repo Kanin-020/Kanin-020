@@ -35,11 +35,11 @@ Hi, I'm Jesús Álvarez
 
 <h2 align="left">My Mobile Stack<h2>
 
-[![My Skills](https://skillicons.dev/icons?i=java,androidstudio,firebase&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,androidstudio&perline=3)](https://skillicons.dev)
 
 <h2 align="left">Other tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,postman,jenkins,docker,linux&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,postman,jenkins,docker,linux,mongo,mysql,express&perline=3)](https://skillicons.dev)
 
 <h2 align="center">Visit my website</h2>
 
