@@ -1,10 +1,10 @@
-<img src="https://cvjesusalvarez.000webhostapp.com/assets/images/Banner.png">
+<img src="https://jesus-alvarez-portfolio.web.app/assets/images/Banner.png">
 
 <h1 align="center">
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/jesús-miguel-álvarez-vázquez-525667213)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jes%C3%BAs-%C3%A1lvarez-525667213/)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/kanin_021)
 
 Hi, I'm Jesús Álvarez
@@ -13,7 +13,6 @@ Hi, I'm Jesús Álvarez
 
 </h1>
 
-<h2 align="left">Some soft skills</h2>
 
 <ul>
   <li>Effective communication</li>
