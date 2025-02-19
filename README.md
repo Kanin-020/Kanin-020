@@ -1,4 +1,4 @@
-<img src="https://jesus-alvarez-portfolio.web.app/assets/images/LinkedIn.png">
+<img src="https://jesus-alvarez-portfolio.web.app/assets/images/Banner.png">
 
 <h1 align="center">
 
