@@ -1,4 +1,4 @@
-<img src="https://jesus-alvarez-portfolio.web.app/assets/images/Banner.png">
+<img src="https://github.com/Kanin-020/Kanin-020/blob/main/resources/Banner.webp">
 
 <h1 align="center">
 
