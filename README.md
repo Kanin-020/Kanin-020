@@ -1,37 +1,37 @@
-<img align="center" src="resources/Saturn Dracula.webp">
-
-<h1 align="center">Hi , I'm Jesús Álvarez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<h1 align="center">
+Hi , I'm Jesús Álvarez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
 <br>
 
+<img align="right" width=300px alt="Space Man" src="resources/astronaut.svg" />
 
-<ul>
-  <li>Effective communication</li>
-  <li>Teamwork</li>
-  <li>Problem-solving</li>
-  <li>Adaptability</li>
-  <li>Creativity</li>
-  <li>Critical thinking</li>
-  <li>Continuous learning</li>
-  <li>Resilience</li>
+<img src="resources/Saturn Dracula.webp" width="30px">&nbsp;***About me***
 
-</ul>
+I am a Software Engineer with 4+ years of experience building scalable backend solutions for the international financial sector. I specialize in Java, Spring Boot, and Node.js with TypeScript, designing clean and modular systems using hexagonal architecture.
 
-<p align="left"></p>
+Passionate about innovation, I actively leverage AI-assisted development and prompt engineering to deliver efficient, high-quality code.
 
-<h2 align="left">My Web Stack</h2>
+- 🚀 I’m currently focusing on improving and expanding my expertise in backend architectures and modern software engineering practice
+- 🤝 I’m working hardly on my new MVP.
+- ✔ Ask me about backend development, system design, or software architecture
+- 📫 Reach out to me at: <a href="jesus.alvarez.vazquez@hotmail.com">jesus.alvarez.vazquez@hotmail.com</a>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,nodejs,angular,react,electron&perline=3)](https://skillicons.dev)
+## My Skills Include
 
-<h2 align="left">My Mobile Stack<h2>
+#### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=java,androidstudio&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,java&perline=15)](https://skillicons.dev)
 
-<h2 align="left">Other tools</h2>
+#### Frameworks & libraries
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,postman,jenkins,docker,linux,mongo,mysql,express&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,electron,angular,spring,androidstudio&perline=15)](https://skillicons.dev)
 
-<h2 align="center">Visit my website</h2>
+#### Other tools
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://jesus-alvarez-portfolio.web.app/)
+[![My Skills](https://skillicons.dev/icons?i=git,jenkins,docker,linux,mongo,mysql&perline=15)](https://skillicons.dev)
+
+## Check out my Social Media
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%233A5F5F.svg?style=for-the-badge&logoColor=white)](https://jesus-alvarez-portfolio.web.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/jesus-alvarez-profile/)
