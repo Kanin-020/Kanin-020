@@ -1,17 +1,9 @@
-<img src="https://github.com/Kanin-020/Kanin-020/blob/main/resources/Banner.webp">
+<img align="center" src="resources/Saturn Dracula.webp">
 
-<h1 align="center">
+<h1 align="center">Hi , I'm Jesús Álvarez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
 <br>
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jesus-alvarez-profile/)
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/kanin_021)
-
-Hi, I'm Jesús Álvarez
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=5CF5F5&center=true&vCenter=true&random=false&width=700&lines=Software+Engineer;JavaScript+Developer;Web+Developer;Mobile+Developer)](https://git.io/typing-svg)
-
-</h1>
 
 
 <ul>
